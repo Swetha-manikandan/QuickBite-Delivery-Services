@@ -102,7 +102,7 @@ QuickBite Delivery Services Analysis
 ---
 
 ##  Dashboard Preview
-
+![alt text](<QuickBite Delivery Services Dashboard.png>)
 
 
 ---
